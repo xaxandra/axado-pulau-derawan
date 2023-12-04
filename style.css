@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lobster&family=Moirai+One&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Moirai+One, sans-serif;
+}
+.nav{
+    color: white;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: cornflowerblue;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    height: 10vh;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+.nav a:hover{
+    color: cyan;   
+}
+.data-list{ 
+    margin-left: 40%;
+}
+.logo{
+    margin-left: 20px;
+}
