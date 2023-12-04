@@ -84,3 +84,15 @@ body{
     transform: scale(1.5);
     transition: 2s;
 }
+.bg-footer{
+    height: 30vh;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+}
+
+.CONTACT {
+    max-width: 5%;
+    
+}
